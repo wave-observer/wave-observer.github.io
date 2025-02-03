@@ -1,2 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wave-observer.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wave-observer.github.io</link></image><lastBuildDate>Mon, 03 Feb 2025 09:13:39 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Minecraft-Java的一些资料</title><link>https://wave-observer.github.io/post/Minecraft-Java-de-yi-xie-zi-liao.html</link><description>## Java
+- Azul「**1.16+**」: https://www.azul.com/downloads/
+- Dragonwell : https://dragonwell-jdk.io/
+- GraalVM : https://www.graalvm.org
+- Java_8 : https://www.java.com/zh-CN/
+- **1.12**（_17w13a_）     最低要求是Java 8
+- **1.17**（_21w19a_）     最低要求是Java 16
+- **1.18**（_1.18-pre2_） 最低要求是Java 17
+- **1.20.5**（_24w14a_）最低要求是Java 21
+## Java启动器
+- PCL2 : https://afdian.com/p/0164034c016c11ebafcb52540025c377
+- HMCL : https://hmcl.huangyuhui.net
+- BakaXL : https://www.bakaxl.com
+- 官方 : https://www.minecraft.net/zh-hans
+- FCL「**安卓系统**」:https://github.com/FCL-Team/FoldCraftLauncher
+- Pojavlauncher「**IOS**」: https://github.com/PojavLauncherTeam/PojavLauncher
+ 。</description><guid isPermaLink="true">https://wave-observer.github.io/post/Minecraft-Java-de-yi-xie-zi-liao.html</guid><pubDate>Mon, 03 Feb 2025 09:13:15 +0000</pubDate></item></channel></rss>

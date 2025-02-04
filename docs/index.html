@@ -10,9 +10,9 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="一个小小的个人博客">
+<meta name="description" content="一个小小的个人博客，分享有趣的内容！">
 <meta property="og:title" content="WaveObserver">
-<meta property="og:description" content="一个小小的个人博客">
+<meta property="og:description" content="一个小小的个人博客，分享有趣的内容！">
 <meta property="og:type" content="blog">
 <meta property="og:url" content="https://wave-observer.github.io">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/175527308?v=4">
@@ -56,7 +56,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <body>
     <div id="header">
 <h1>
-    <img src="https://avatars.githubusercontent.com/u/175527308?v=4" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">WaveObserver</a></h1>
+    <img src="https://avatars.githubusercontent.com/u/175527308?v=4" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">W博客</a></h1>
 <div class="title-right">
     <a href="https://wave-observer.github.io/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
         <svg class="octicon" width="16" height="16" >
@@ -78,7 +78,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div style="margin-bottom: 16px;">一个小小的个人博客</div>
+<div style="margin-bottom: 16px;">一个小小的个人博客，分享有趣的内容！</div>
 <nav class="SideNav border">
 <a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Minecraft-Java-de-yi-xie-zi-liao.html">
     <div class="d-flex flex-items-center">
@@ -103,8 +103,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("02/03/2025"!=""){
+    var startSite=new Date("02/03/2025");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
